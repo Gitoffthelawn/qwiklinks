@@ -2,7 +2,7 @@
   <a href="https://ruyili.ca/qwiklinks/">Homepage</a> / <a href="https://github.com/RuyiLi/qwiklinks/">GitHub</a>
 </p>
 <p align="center">
-  <a href="https://addons.mozilla.org/en-CA/firefox/addon/qwiklinks/">Firefox Addon</a> / <a href="https://chrome.google.com/webstore/detail/qwiklinks/leahklkmdooljnnljcheihjjcligjbmc">Chrome & Edge Extension</a>
+  <a href="https://addons.mozilla.org/firefox/addon/qwiklinks/">Firefox Addon</a> / <a href="https://chrome.google.com/webstore/detail/qwiklinks/leahklkmdooljnnljcheihjjcligjbmc">Chrome & Edge Extension</a>
 </p>
 
 # qwiklinks
@@ -36,7 +36,7 @@ The qwiklinks extension allows you to access your links through the browser sear
 
 ### Installation
 
-- [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/qwiklinks/)
+- [Firefox](https://addons.mozilla.org/firefox/addon/qwiklinks/)
 - [Chrome/Edge](https://chrome.google.com/webstore/detail/qwiklinks/leahklkmdooljnnljcheihjjcligjbmc)
 
 ### Arguments
